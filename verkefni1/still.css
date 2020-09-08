@@ -1,0 +1,59 @@
+
+
+a:visited{
+    color:red;
+}
+
+a:hover{
+    color: teal
+}
+
+a:active{
+    color: yellow;
+}
+
+
+body{
+    border: 2px solid blue;
+    padding: 20px;
+    margin: 20px;
+    font-family: helvetica;
+    max-width: 50em;
+   margin: auto;
+}
+
+ul{
+    color:green;
+}
+
+.skaletur{
+    font-style: italic;
+    color: blue;
+    padding-left: 55px;
+}
+
+.midjun{
+    text-align: center;
+    color: blue;
+
+}
+
+.imagine{
+    color: red;
+    font-weight: bold;
+    
+}
+
+.blar{
+    color: blue;
+}
+.raudur{
+    color: rgb(116, 0, 0);
+}
+
+.red{
+    color: red;
+}
+
+
+
