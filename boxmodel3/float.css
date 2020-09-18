@@ -1,0 +1,39 @@
+.box{ 
+    border: 1px solid black;   
+    width: 50%;
+    float: left;
+}
+
+img{
+    margin: 15px;
+    float: right;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.box2{ 
+    border: 1px black;   
+    width: 75%;
+    float: right;
+}
+
+.ell{
+    font-size: 32px;
+    margin: 10px;
+    float: left;
+}
+
+.group::before,
+.group::after {
+    content: "";
+    display: table;
+}
+
+.group::after {
+    clear: both;
+}
+.group {
+    clear: both;
+}
