@@ -1,0 +1,20 @@
+.listi{
+    display: block;
+    margin: 1em;
+    padding: 1em;
+    border: 3px dashed green
+}
+
+.listi2{
+    display: inline;
+    margin: 1em;
+    padding: 1em;
+    border: 3px dashed blue
+}
+
+.listi3{
+    display: inline-block;
+    margin: 1em;
+    padding: 1em;
+    border: 3px dashed red
+}
